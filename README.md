@@ -104,7 +104,7 @@ Below is an example of the base metadata structure used in the script:
         "core:datatype": "cf32_le",
         "core:sample_rate": 23040000,
         "core:version": "0.0.1",
-        "core:author": "ZTX",
+        "core:author": "Mohammed",
         "core:description": "IQ samples from the srsRAN OTA 5G testbed setup."
     },
     "captures": {
